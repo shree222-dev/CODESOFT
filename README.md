@@ -1,2 +1,2 @@
-# CODESOFT;
-i created some project for Codesoft Internship in c++ programming Language
+# CODSOFT;
+i created some project for Codsoft Internship in c++ programming Language
